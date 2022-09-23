@@ -1,2 +1,2 @@
-def hi(): pass
+print('Hello')
     
